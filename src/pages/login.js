@@ -14,7 +14,7 @@ const Login = () => {
 
     useEffect(() => {
         fetchUsersList();
-    }, []);
+    });
 
     //for fetching accounts
     const fetchUsersList = async () => {
