@@ -1,0 +1,50 @@
+.error-container{
+    font-family: "Aleo", serif !important;
+    display:flex ;
+    justify-content:center;
+    align-items:center
+}
+
+.primary{
+    font-family: "Aleo", serif !important;
+    padding-bottom:'8px';
+    font-weight:500;
+    color: black;
+}
+
+.secondary{
+    font-family: "Aleo", serif !important;
+    padding-bottom:18px;
+    color:darkgray;
+    width:350px;
+}
+
+.image{
+    width:200px;
+    height:200px;
+    border-radius:0px;
+    margin-right:1em;
+}
+
+.button{
+    font-family: "Aleo", serif !important;
+    background-color: #222222 !important;
+    text-transform: none !important;
+    font-size: 1em !important;
+    padding: 3px 16px !important;
+    color: #fff !important;
+}
+
+.button:hover{
+    box-shadow: none !important;
+    background-color: rgba(34,34,34,0.85) !important
+}
+
+.button:active{
+    box-shadow: none !important;
+}
+
+.preText{
+    font-family: "Aleo", serif !important;
+    white-space: 'pre-wrap';
+}
