@@ -1,10 +1,9 @@
 Personal-book-app
 
 Instrutions to start
-Install project dependencies
 
 ### `npm install`
-Execute project in web browser
+Install project dependencies
 
 ### `npm start`
-Execute project code testing
+Execute project in web browser
